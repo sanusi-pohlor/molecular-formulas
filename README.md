@@ -1,5 +1,6 @@
 
 ## เกมทายสูตรโมเลกุล
+  ประกอบสูตรโมเลกุลให้ตรงกันกับชื่อโมเลกุลที่แสดง
   - ใช้ Tailwind CSS
   - ใช้ Gemini Cli
 ## Demo : [molecular-formulas.vercel.app](https://molecular-formulas.vercel.app/)
